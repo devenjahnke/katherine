@@ -1,6 +1,6 @@
 <template>
   <layout title="Welcome">
-    <h1>Welcome</h1>
+    <h1 class="text-5xl">Welcome</h1>
     <p>Hello, welcome to your first Inertia app!</p>
   </layout>
 </template>
